@@ -7,13 +7,13 @@ public class Math {
 	void getadd (int x, int y){
 		
 		c =x +y;
-		System.out.println("The output of addition of two numbers is " + c);
+		System.out.println(c);
 	}
 	
 	void getmultiply (int x, int y){
 		
 		c= x*y;
-		System.out.println("The output of addition of two numbers is " + c);
+		System.out.println(c);
 		
 	}
 	
