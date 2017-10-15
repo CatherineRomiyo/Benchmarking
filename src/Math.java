@@ -13,7 +13,7 @@ public class Math {
 	void getmultiply (int x, int y){
 		
 		c= x*y;
-		System.out.println(c);
+		System.out.println("The output of multiplication of two numbers is " + c);
 		
 	}
 	
