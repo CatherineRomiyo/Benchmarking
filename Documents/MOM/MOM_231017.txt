@@ -1,0 +1,27 @@
+Task1- Restructure GERBIL
+
+https://github.com/dice-group/gerbil/blob/master/src/main/resources/spring/database/schema/experiment-schema.sql
+
+more abstract schema and store values to results of measures and we should be more free to that.
+
+Some Experiment types are not existing anymore and have new different types we have today.
+
+OPTIONAL:create a diagram how the data looks like and then we will decide how we go.
+
+STEPS:
+
+orders are upto ourself.
+
+start with restructing
+needs to know the code i sense to restructure the code.
+read papers
+links u can find on gerbil/blob/master/src/main/resources/spring/database/schema/experiment-schema
+akws.gerbil.
+wiki on the above link.
+See gerbil running online. for more help.
+i.e. gerbil.akws.org/gerbil,,,,,,,,,,gerbil.aq.askw.org/gerbil,,,gerbil experiment configuration,,,,,,sw2017.aksw.org/gerbil
+
+merge code with some things....ask other students.
+
+attend micro-seminars about dependency injection.
+
